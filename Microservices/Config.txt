@@ -1,0 +1,12 @@
+01) Configure the Doctor service DB.
+	01) Import Doctor.json file to MongoDB.
+
+02) Configure the Patient service DB.
+	01) Import the Patient.sql file to Postgresql.
+
+03) Open the project Doctor, Patient and hospital project directories and run below command.
+	01) mvn clean install
+	    or
+	02) Import prefer IDE to auto cofigure to the projects.
+
+04) Expose the API using prefer Rest Client (Postman or Insomnia). 
