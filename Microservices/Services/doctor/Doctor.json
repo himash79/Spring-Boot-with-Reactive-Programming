@@ -1,0 +1,76 @@
+[{
+  "_id": {
+    "$oid": "62aed1d4e2b2c92b39e04e53"
+  },
+  "first_name": "nirmal",
+  "last_name": "perera",
+  "age": "30",
+  "marital_status": "single",
+  "state": "ambepussa"
+},{
+  "_id": {
+    "$oid": "62aed2d6e2b2c92b39e04e55"
+  },
+  "first_name": "damith",
+  "last_name": "jayawadhana",
+  "age": "22",
+  "marital_status": "married",
+  "state": "mathara"
+},{
+  "_id": {
+    "$oid": "62aed2f3e2b2c92b39e04e56"
+  },
+  "first_name": "sumith",
+  "last_name": "darpadathu",
+  "age": "25",
+  "marital_status": "single",
+  "state": "kandy"
+},{
+  "_id": {
+    "$oid": "62aed31ce2b2c92b39e04e57"
+  },
+  "first_name": "chinthaka",
+  "last_name": "ranathunga",
+  "age": "40",
+  "marital_status": "married",
+  "state": "kaluthara"
+},{
+  "_id": {
+    "$oid": "62aed34de2b2c92b39e04e59"
+  },
+  "first_name": "dasith",
+  "last_name": "gallage",
+  "age": "60",
+  "marital_status": "single",
+  "state": "ranala"
+},{
+  "_id": {
+    "$oid": "62af52791e7c5c617a6453fc"
+  },
+  "first_name": "jagath",
+  "last_name": "bandara",
+  "age": "24",
+  "marital_status": "single",
+  "state": "baththaramulla",
+  "_class": "lk.himash.doctor.model.Doctor"
+},{
+  "_id": {
+    "$oid": "62b08642a246964c4854a3bf"
+  },
+  "first_name": "priyankara",
+  "last_name": "piyadasa",
+  "age": "34",
+  "marital_status": "married",
+  "state": "ahungalla",
+  "_class": "lk.himash.doctor.model.Doctor"
+},{
+  "_id": {
+    "$oid": "62b884aa5b16094445263051"
+  },
+  "first_name": "sethan",
+  "last_name": "faisal",
+  "age": "10",
+  "marital_status": "other",
+  "state": "angoda",
+  "_class": "lk.himash.doctor.model.Doctor"
+}]
